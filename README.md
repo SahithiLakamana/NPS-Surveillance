@@ -119,8 +119,3 @@ substance co-mention frequencies, and drug co-mention network graphs.
 No personally identifiable information is available from the dashboard.
 
 ---
-
-This publication was supported by the National Institute on Drug Abuse (NIDA)
-of the National Institutes of Health (NIH); award number R01DA057599.
-The content is solely the responsibility of the authors and does not
-necessarily represent the official views of the NIH.
